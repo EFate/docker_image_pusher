@@ -2,3 +2,6 @@
 # --platform=linux/amd64
 cimg/python:3.10.16
 roboflow/roboflow-inference-server-gpu:latest
+
+unclecode/crawl4ai:basic
+unclecode/crawl4ai:gpu
