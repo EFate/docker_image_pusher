@@ -5,3 +5,5 @@ roboflow/roboflow-inference-server-gpu:latest
 
 unclecode/crawl4ai:basic
 unclecode/crawl4ai:gpu
+
+ghcr.io/jae-jae/fetcher-mcp:latest
