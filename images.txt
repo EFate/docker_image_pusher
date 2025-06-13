@@ -3,7 +3,6 @@
 cimg/python:3.10.16
 roboflow/roboflow-inference-server-gpu:latest
 
-unclecode/crawl4ai:basic
-unclecode/crawl4ai:gpu
+unclecode/crawl4ai:0.6.0-rN
 
 ghcr.io/jae-jae/fetcher-mcp:latest
