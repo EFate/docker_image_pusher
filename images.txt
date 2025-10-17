@@ -4,6 +4,6 @@
 #roboflow/roboflow-inference-server-gpu:latest
 
 #unclecode/crawl4ai:latest
-docker.io/python:3.10-slim
+python:3.10.19-slim
 
 #ghcr.io/jae-jae/fetcher-mcp:latest
