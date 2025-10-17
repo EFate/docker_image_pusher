@@ -1,7 +1,6 @@
 # 支持指定架构
 # --platform=linux/amd64
 #cimg/python:3.10.16
-#roboflow/roboflow-inference-server-gpu:latest
 
 #unclecode/crawl4ai:latest
 python:3.10.19-slim
