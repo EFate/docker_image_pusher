@@ -4,5 +4,5 @@
 
 #unclecode/crawl4ai:latest
 python:3.10.19-slim
-
+nvidia/cuda:12.4.1-runtime-ubuntu22.04
 #ghcr.io/jae-jae/fetcher-mcp:latest
