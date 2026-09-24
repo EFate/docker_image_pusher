@@ -2,7 +2,7 @@
 # --platform=linux/arm64
 
 timothystewart6/vllm-gb10:latest
-vllm/vllm-omni:minimax-h3
+#vllm/vllm-omni:minimax-h3
 #vllm/vllm-openai:latest
 #mzz2017/v2raya:latest
 
