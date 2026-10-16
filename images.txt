@@ -5,7 +5,8 @@
 #vllm/vllm-omni:minimax-h3
 #vllm/vllm-openai:latest
 #mzz2017/v2raya:latest
-yanwk/comfyui-boot:cu130-slim-v2
+#yanwk/comfyui-boot:cu130-slim-v2
+sglang/sglang:latest-diffusion
 
 #python:3.10-slim
 #nvidia/cuda:12.4.1-runtime-ubuntu22.04
