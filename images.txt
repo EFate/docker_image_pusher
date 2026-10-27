@@ -6,8 +6,8 @@
 #vllm/vllm-openai:latest
 #mzz2017/v2raya:latest
 #yanwk/comfyui-boot:cu130-slim-v2
-sglang/sglang:latest-diffusion
-
+#sglang/sglang:latest-diffusion
+lmsysorg/sglang:dev
 #python:3.10-slim
 #nvidia/cuda:12.4.1-runtime-ubuntu22.04
 #ghcr.io/jae-jae/fetcher-mcp:latest
